@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VkCupFormats</string>
+    <string name="rating">Рейтинг</string>
+    <string name="question">Вопрос</string>
+    <string name="pairs">Пары</string>
+    <string name="select">Выбор</string>
+    <string name="input">Ввод</string>
+    <string name="str_allowed_number_chars" translatable="false">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyАБВГДЕЖЗИЙКЛМНОРСТУФХЦЧШЩЭЮЯЫЪЬабвгдежзийклмнорстуфхцчшщэюяыъь1234567890</string>
+</resources>
